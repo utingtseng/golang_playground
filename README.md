@@ -2,3 +2,7 @@
 ## go-server
   descr: "net/http" package with static html pages
   source: https://www.youtube.com/watch?v=ASBUp7stqjo&list=PL5dTjWUk_cPYztKD7WxVFluHvpBNM28N9
+
+## concurrency
+  descr: Learn about concurrency patterns in go
+  source: https://www.youtube.com/watch?v=qyM8Pi1KiiM&t=1174s
